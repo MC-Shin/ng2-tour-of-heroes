@@ -1,3 +1,6 @@
 {
     "typescript.tsdk": "./node_modules/typescript/lib"
+
+     // 터미널이 Windows에서 사용하는 셸의 경로입니다. Windows와 함께 제공되는 셸을 사용하는 경우(cmd, PowerShell 또는 Ubuntu의 Bash) 64비트 버전을 사용하려면 C:\Windows\System32보다 C:\Windows\sysnative가 더 좋습니다.
+    //"terminal.integrated.shell.windows": "C:\\Program Files\\Git\\git-bash.exe"
 }
